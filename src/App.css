@@ -52,3 +52,15 @@
 .header-wrapper ul a {
   margin: 0px 10px;
 }
+
+
+.service-heading h1 {
+  color: red;
+}
+
+
+.p-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
